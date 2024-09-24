@@ -1,0 +1,72 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.divStyle {
+  height: 180px;
+  padding: 15px;
+  background-color: darkgray;
+  border-radius: 10px;
+}
+
+.redBtn {
+  background-color: red;
+  color: white;
+  height: 40px;
+  width: 100px;
+  padding: 3px 10px;
+  border-radius: 35px;
+  margin: 10px;
+}
+
+.blueBtn {
+  background-color: blue;
+  color: white;
+  height: 40px;
+  width: 100px;
+  padding: 3px 10px;
+  border-radius: 35px;
+  margin: 10px;
+}
+
+.greenBtn {
+  background-color: green;
+  color: white;
+  height: 40px;
+  width: 100px;
+  padding: 3px 10px;
+  border-radius: 35px;
+  margin: 10px;
+}
+
+.orangebtn {
+  background-color: orange;
+  color: white;
+  height: 40px;
+  width: 100px;
+  padding: 3px 10px;
+  border-radius: 35px;
+  margin: 10px;
+}
+
+.purpleBtn {
+  background-color: purple;
+  color: white;
+  height: 40px;
+  width: 100px;
+  padding: 3px 10px;
+  border-radius: 35px;
+  margin: 10px;
+}
+
+.blackBtn {
+  background-color: black;
+  color: white;
+  height: 40px;
+  width: 100px;
+  padding: 3px 10px;
+  border-radius: 35px;
+  margin: 10px;
+}
